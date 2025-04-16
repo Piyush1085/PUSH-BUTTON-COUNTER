@@ -49,4 +49,6 @@ DESIGN A SIMPLE EMBEDDED SYSTEM USING A MICROCONTROLLER TO COUNT AND DISPLAY THE
 3) Debouncing Demonstration for Education
 4) Interface for Event Triggers
 
+# Circuit Diagram
 
+![Image](https://github.com/user-attachments/assets/2f2e3f1f-5f70-46b6-a17a-890fac9f4976)
